@@ -1,0 +1,35 @@
+.history {
+  margin-top: 2rem;
+}
+
+.history_item {
+  margin-top: 1rem;
+}
+
+.history p {
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 0.7rem 0.5rem;
+}
+
+.history__details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.history__amount {
+  display: flex;
+}
+
+.history__color {
+  width: 10px;
+  padding: 0;
+}
+
+.red {
+  background-color: rgb(167, 34, 34);
+}
+
+.green {
+  background-color: green;
+}

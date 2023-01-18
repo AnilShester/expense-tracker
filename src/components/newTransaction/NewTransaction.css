@@ -1,0 +1,36 @@
+.new_transaction {
+  margin-top: 3rem;
+}
+
+.new_transaction h5 {
+  font-size: 2rem;
+  padding: 0.5rem 0;
+}
+
+.new_transaction form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.new_transaction form label {
+  font-size: 1.5rem;
+  padding: 1rem 0;
+  font-weight: 600;
+}
+
+.new_transaction form input {
+  padding: 0.5rem 0.3rem;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.new_transaction form button {
+  margin-top: 1rem;
+  padding: 0.7rem;
+  font-size: 1.5rem;
+  background-color: rgb(7, 10, 71, 0.7);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
